@@ -1,0 +1,14 @@
+<%@ page language="java" pageEncoding="utf-8"%>
+<%@ taglib uri="/struts-tags" prefix="s" %>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Index</title>
+</head>
+<body>
+	<s:a action="hello">Hello</s:a>
+	<br>
+	<s:a action="show">Show</s:a>
+</body>
+</html>

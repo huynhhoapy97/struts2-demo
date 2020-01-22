@@ -1,0 +1,5 @@
+package com.hoatruong.models;
+
+public class Product {
+
+}

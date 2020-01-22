@@ -1,0 +1,13 @@
+<%@ page language="java" pageEncoding="utf-8"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Hello</title>
+</head>
+<body>
+	<h3>Hello ${fullName}</h3>
+	<h1>Product Information:</h1>
+	
+</body>
+</html>

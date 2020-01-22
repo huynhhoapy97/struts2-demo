@@ -1,0 +1,9 @@
+package com.hoatruong.controllers;
+
+public class HelloAction {
+	public String execute() {
+		return "success";
+	}
+	
+	
+}

@@ -1,0 +1,13 @@
+<%@ page language="java" pageEncoding="utf-8"%>
+<%@ taglib uri="http://java.sun.com/jstl/core_rt" prefix="c" %>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Show</title>
+</head>
+<body>
+	<h3>Show product list:</h3>
+	
+</body>
+</html>

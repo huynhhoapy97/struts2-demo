@@ -1,0 +1,31 @@
+package com.hoatruong.controllers;
+
+import com.hoatruong.models.*;
+import java.util.*;
+
+public class HelloAction {
+	
+	private String fullName;
+	
+	public String getFullName() {
+		return fullName;
+	}
+
+	public void setFullName(String fullName) {
+		this.fullName = fullName;
+	}
+
+	public String execute() {
+		
+		this.fullName = "Trương Huỳnh Hòa";
+		
+		return "success";
+	}
+	
+	public String show() {
+		
+		
+		
+		return "success";
+	}
+}

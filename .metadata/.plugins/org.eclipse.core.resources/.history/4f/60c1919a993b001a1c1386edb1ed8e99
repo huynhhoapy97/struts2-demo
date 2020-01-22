@@ -1,0 +1,16 @@
+package com.hoatruong.controllers;
+
+public class HelloAction {
+	
+	private String fullName;
+	
+	
+	
+	public String execute() {
+		return "success";
+	}
+	
+	public String show() {
+		return "success";
+	}
+}
