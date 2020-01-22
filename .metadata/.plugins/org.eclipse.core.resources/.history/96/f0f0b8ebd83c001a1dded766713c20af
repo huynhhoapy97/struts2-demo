@@ -54,9 +54,11 @@ public class HelloAction {
 		this.productList.add(new Product(3, "Vertu", "70000000"));
 		
 		System.out.println("Số lượng: " + this.productList.size());
-
+<<<<<<< HEAD
 		System.out.println("Tui đang thay đổi code trên Local");
-
+=======
+		System.out.println("Tui đang thay đổi code trên GitHub");
+>>>>>>> 25894beab4ce3e1a594392e3f447bc9d09325db9
 		
 		return "success";
 	}
