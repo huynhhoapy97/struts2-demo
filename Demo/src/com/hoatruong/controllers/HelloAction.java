@@ -53,6 +53,8 @@ public class HelloAction {
 		this.productList.add(new Product(2, "Samsung", "60000000"));
 		this.productList.add(new Product(3, "Vertu", "70000000"));
 		
+		System.out.println("Số lượng: " + this.productList.size());
+		
 		return "success";
 	}
 }
